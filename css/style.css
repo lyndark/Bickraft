@@ -23,6 +23,10 @@
 @import './seguros/vantagens.css';
 @import './seguros/perguntas.css';
 
+/*Bicicleta*/
+@import './bicicleta/bicicleta.css';
+@import './bicicleta/seguro.css';
+
 
 /*Termos e condições*/
 @import './termos/termos.css';
