@@ -2,6 +2,9 @@
 @import './utilidades/componentes.css';
 @import './utilidades/cores.css';
 
+/* animação */
+@import './utilidades/anime.css';
+
 @import './global/header.css';
 @import './global/footer.css';
 
@@ -37,5 +40,6 @@
 
 /*Termos e condições*/
 @import './termos/termos.css';
+
 
 
